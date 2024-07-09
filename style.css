@@ -9,4 +9,12 @@ body {
 	h6 {
 		text-shadow: 0 0 4px;
 	} 
+
+	a {
+		color: lime;
+	}
+
+	a:hover {
+		text-shadow: 0 0 4px;
+	}
 }
